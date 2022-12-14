@@ -1,0 +1,74 @@
+{
+    "heading": {
+        "candleTypePrediction": "Candle Trend Prediction",
+        "title": "Investopedia Pro",
+        "donate": "Donate/Fund the Project",
+        "about": "About The Project",
+        "success": "Thank You, the payment was successful",
+        "paymentFailed": "Payment Failed"
+    },
+    "label": {
+        "bullish": "Bullish",
+        "bearish": "Bearish",
+        "green": "Green",
+        "red": "Red",
+        "1h": "1 Hour",
+        "1d": "1 Day",
+        "4h": "4 Hours",
+        "8h": "8 Hours",
+        "BTCUSDT": "BTC/USDT",
+        "openTime": "Candle Open Time",
+        "closeTime": "Candle Close Time",
+        "closesAt": "Candle Closes At",
+        "timeframe": "Timeframe",
+        "tradingPair": "Trading Pair",
+        "latestCandleTypePrediction": "Predicted Candle Trend",
+        "prediction": "Predicted Trend",
+        "result": "Result",
+        "history": "Last 5 Predictions",
+        "lastUpdatedAt": "Data Updated At",
+        "followUsOnTwitter": "Follow Us On Twitter",
+        "copyToClipboard": "Copy to Clipboard",
+        "predictedAt": "Predicted At",
+        "crypto": "Crypto",
+        "paypal": "Paypal",
+        "amount": "Amount (USD)"
+    },
+    "description": {
+        "candleTypePrediction": "This forecast is to predict the candle's trend using a model which is being trained by a Machine Learning algorithm. These predictions are made at the candle's open time. A bearish candle indicates the close price is lower than the open price and a bullish candle indicates the close price is higher than the open price.",
+        "disclaimer": "DISCLAIMER: The information on this site is provided for educational purposes only. It does not constitute any offer, recommendation, or solicitation to any person to enter into any transaction or adopt any hedging, trading, or investment strategy. Users of this site should do their own research before entering into any trade.",
+        "whyDonate": "We intend to provide this information to everyone in the crypto community at free of cost. But we must find a way around to fund the development and infrastructure expenses to run this project. Hence, we may show ads in the future to generate revenue to fund this project. However, you may also donate/fund this project through any of the payment options provided below. Your donations would be extremely appreciated and help us to scale this project.",
+        "aboutTheProject": "This project aims to build and train various prediction models using Machine Learning algorithms to forecast the crypto market trends for various trading pairs. These market predictions are available to the whole crypto community at free of cost. We are committed to improving the reliability and accuracy of the predictions made through our Machine Learning models. The information on this site is provided for educational purposes only. Users of this site should do their own research before entering into any trade.",
+        "redirectingSoon": "Redirecting to home page...",
+        "paymentFailed": "Unable to complete transaction, please try again later."
+    },
+    "button": {
+        "hideHistory": "Hide Prediction History",
+        "showHistory": "Show Last 5 Predictions",
+        "close": "Close"
+    },
+    "menu": {
+        "home": "Home",
+        "donate": "Donate",
+        "about": "About",
+        "menu": "Menu"
+    },
+    "message": {
+        "noWallets": "No Wallet information Found",
+        "coppiedAddress": "Copied ${name} address to clipboard",
+        "noPrediction": "No Prediction Found"
+    },
+    "cryptoToken": {
+        "btc": "Bitcoin (BTC)",
+        "eth": "Ethereum (ETH)",
+        "theta": "Theta/Tfuel",
+        "ada": "Cardano (ADA)",
+        "matic": "Poylogon (Matic)",
+        "trx": "Tron (TRX)",
+        "bnb": "BNB",
+        "rune": "THORChain (RUNE)",
+        "ltc": "Litecoin (LTC)",
+        "sol": "Solana (SOL)",
+        "doge": "Dogecoin (DOGE)"
+    }
+}
